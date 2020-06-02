@@ -1,0 +1,1 @@
+javadoc -d docs/ -sourcepath sources sources/ua/edu/sumdu/j2se/pr1/*.java -subpackages ua/edu/sumdu/j2se/pr1
